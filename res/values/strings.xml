@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TargetHeartRateCalc</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_age">Enter Your Age</string>
+    <string name="max_heart_rate">Max Heart rate</string>
+    <string name="target_range">Target Range</string>
+    <string name="min_hear_rate">Min Heart rate</string>
+
+</resources>
